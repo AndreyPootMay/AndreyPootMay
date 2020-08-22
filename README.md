@@ -101,17 +101,19 @@
 
 ### Design.
 <p>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreypootmay&layout=compact&hide=html" alt="andreypootmay" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
 </p>
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreypootmay&layout=compact&hide=html" alt="andreypootmay" />
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreypootmay&show_icons=true" alt="andreypootmay" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreypootmay&show_icons=true" alt="andreypootmay" />
 
+</p>
 <hr>
 
 <p align="center">
