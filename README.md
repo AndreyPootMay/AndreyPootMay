@@ -1,16 +1,22 @@
-<h3 align="center">A passionate fullstack developer from México</h3>
+<h2 align="center">A passionate full-stack developer from México.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreypootmay" alt="andreypootmay" /> </p>
+
+[![GitHub followers](https://img.shields.io/github/followers/andreypootmay?label=andreypootmay&logo=github&style=flat-square)](github.com/andreypootmay/)
+[![Twitter @andrey_modder](https://img.shields.io/twitter/follow/andrey_modder?label=%40andrey_modder&logo=twitter&style=flat-square)](https://twitter.com/andrey_modder)
+[![Discord](https://img.shields.io/discord/459860554090283019?label=andreypootmay&logo=discord&style=flat-square)](https://discord.gg/aFGYXvX)
+[![Website](https://img.shields.io/badge/andreypootmay.com-web-blueviolet?style=flat-square)](http://andreypootmay.com)
+[![Email](https://img.shields.io/badge/andreypootmay%40gmail.com-mail-blueviolet?style=flat-square)](mailto://andreypootmay@gmail.com)
+
 
 - 🔭 I’m currently working on [My Website](http://www.andreypootmay.com)
 
-- 🌱 I’m currently practicing **Golang, AWS, React Js and Flutter**
+- 🌱 I’m currently practicing **Golang, AWS, React Js and Flutter**.
 
-- 👯 I’m looking to collaborate on **Development Remotely**
+- 👯 I’m looking to collaborate on **Development Remotely**.
 
 - 📝 I regulary write articles on [My Blog](http://www.andreypootmay.com/blog/).
 
-- 💬 Ask me about **Backend Development and Database design.**
+- 💬 Ask me about **Backend Development and Database design**.
 
 - 📫 How to reach me **andreypootmay@gmail.com**
 
