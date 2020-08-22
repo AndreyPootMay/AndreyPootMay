@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreypootmay" alt="andreypootmay" /> </p>
 
-- 🔭 I’m currently working on [My Website](www.andreypootmay.com)
+- 🔭 I’m currently working on [My Website](http://www.andreypootmay.com)
 
 - 🌱 I’m currently practicing **Golang, AWS, React Js and Flutter**
 
 - 👯 I’m looking to collaborate on **Development Remotely**
 
-- 📝 I regulary write articles on [My Blog](www.andreypootmay.com/blog/).
+- 📝 I regulary write articles on [My Blog](http://www.andreypootmay.com/blog/).
 
 - 💬 Ask me about **Backend Development and Database design.**
 
@@ -108,8 +108,6 @@
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreypootmay&layout=compact&hide=html" alt="andreypootmay" />
-
-<hr>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreypootmay&show_icons=true" alt="andreypootmay" />
 
