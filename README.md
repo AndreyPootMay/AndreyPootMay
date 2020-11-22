@@ -80,7 +80,6 @@
 <p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://lh3.googleusercontent.com/proxy/VWexDpKRXNSR7qWZyVXeycX27Qvgb5OyQw6pRHlYn0yTdj7TdVTKokAxkHQDnq-1gTofmjq4eObgPXWhP08L3qUk3dxv09YpMursvw" alt="arduino-ide" width="40" height="40" />
     <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry pi" width="40" height="50"> 
     <img src="https://pbs.twimg.com/profile_images/999279684146753536/Exd9ESIN_400x400.jpg" alt="Home Assistant" width="40" height="40"> 
     <img src="https://nodered.org/about/resources/media/node-red-icon-2.png" alt="node red" width="40" height="40">
