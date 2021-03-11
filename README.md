@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niger Andrey Poot May</h1>
 <h3 align="center">A passionate fullstack developer from México</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/andreypootmay?label=andreypootmay&logo=github&style=flat-square)](github.com/andreypootmay/)
-[![Twitter @andrey_modder](https://img.shields.io/twitter/follow/andrey_modder?label=%40andrey_modder&logo=twitter&style=flat-square)](https://twitter.com/andrey_modder)
 [![Discord](https://img.shields.io/discord/459860554090283019?label=andreypootmay&logo=discord&style=flat-square)](https://discord.gg/aFGYXvX)
 [![Website](https://img.shields.io/badge/andreypootmay.com-web-blueviolet?style=flat-square)](http://andreypootmay.com)
 [![Email](https://img.shields.io/badge/andreypootmay%40gmail.com-mail-blueviolet?style=flat-square)](mailto://andreypootmay@gmail.com)
