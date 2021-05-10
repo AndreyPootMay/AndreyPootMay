@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [www.andreypootmay.com/blog](www.andreypootmay.com/blog)
 
-- 💬 Ask me about **React, Php, MySQL**
+- 💬 Ask me about **NodeJs, Php and MySQL**
 
 - 📫 How to reach me **andreypootmay@gmail.com**
 
